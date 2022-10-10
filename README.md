@@ -1,2 +1,1 @@
-# Lab 2 - Starter
-https://atiwaryandroid.github.io/Lab2_StarterAaryan/
+https://atiwaryandroid.github.io/fa22-cse110-lab3/
