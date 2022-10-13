@@ -40,8 +40,12 @@ summary{
   margin: auto;
   color: white;
   border: 10px solid purple;
+  height: 50px;
+  max-width: 40px;
+  min-width: 10px;
 }
 
 h2{
   display: inline-block;
+  width: 2px
 }
