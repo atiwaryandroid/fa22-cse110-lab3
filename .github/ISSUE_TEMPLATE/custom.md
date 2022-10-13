@@ -2,7 +2,7 @@
 name: Custom issue template
 about: Custom_Template
 title: This is the custom template
-labels: bug
+labels: bug, invalid
 assignees: atiwaryandroid
 
 ---
