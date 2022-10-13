@@ -5,8 +5,14 @@ body {
 h1 {
   color: navy;        
   margin-left: 20px;    /*left margin width is 20 pixels*/
+  font-size: 40mm;
+  margin-right: 20pt;
+  line-height: 5pc;
 }
 
 section{
-  color: orange
+  color: orange;
+  font-size: 5vw;
+  line-height: 5vi;
+  margin-left: 5lvw;
 }
