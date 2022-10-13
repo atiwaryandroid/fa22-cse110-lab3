@@ -30,3 +30,9 @@ section{
   padding-bottom: 50px;
   padding-left: 80px;
 }
+
+summary{
+  margin: auto;
+  color: white;
+  border: 10px solid purple;
+}
