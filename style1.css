@@ -13,6 +13,7 @@ h1 {
   margin: -40px, 30px, 40px, 4em;
   border: 10px solid purple;
   padding: 50px, 30px, 50px, 80px;
+  position: static;
 }
 
 section{
@@ -47,5 +48,6 @@ summary{
 
 h2{
   display: inline-block;
-  width: 2px
+  width: 2px;
+  position: absolute;
 }
