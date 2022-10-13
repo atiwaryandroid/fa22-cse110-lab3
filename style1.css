@@ -1,0 +1,8 @@
+body {
+  background-color: lightblue;  /*sets background color to blue*/
+}
+
+h1 {
+  color: navy;        
+  margin-left: 20px;    /*left margin width is 20 pixels*/
+}
