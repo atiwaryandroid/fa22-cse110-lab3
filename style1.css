@@ -1,9 +1,11 @@
 body {
-  background-color: red;  /*sets background color to blue*/
+  background-color: black;  /*sets background color to blue*/
 }
 
 h1 {
-  color: navy;        
+  color: white;
+  text-align: center;
+  text-decoration: overline;
   margin-left: 20px;    /*left margin width is 20 pixels*/
   font-size: 40mm;
   line-height: 5pc;
