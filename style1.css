@@ -15,4 +15,8 @@ section{
   font-size: 5vw;
   line-height: 5vi;
   margin-left: 5lvw;
+  border-width: 2px;
+  border-color: black;
+  border-radius: 15cm;
+  border-style: solid;
 }
