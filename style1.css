@@ -1,3 +1,18 @@
+body ul{
+  text-align: left;
+  color: red;
+}
+ol > li{
+  color: pink;
+  text-align: center;
+}
+p ~ ul{
+  background-color: lightblue;
+}
+section + p{
+  background-color: yellow;
+  font-size: 30px;
+}
 body {
   background-color: purple;  /*sets background color to blue*/
 }
