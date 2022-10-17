@@ -10,7 +10,7 @@ p.k{
   color: pink;
   font-family: Gujarati, Vai, Telugu;
 }
-h1 {
+h1,h6 {
   display: inline;
   color: white;
   text-align: center;
