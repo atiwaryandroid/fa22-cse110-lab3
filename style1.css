@@ -6,6 +6,10 @@ body {
       background-color: green;
       }
  }
+p.k{
+  color: pink;
+  font-family: Gujarati, Vai, Telugu;
+}
 h1 {
   display: inline;
   color: white;
