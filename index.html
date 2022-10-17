@@ -2,6 +2,29 @@
 <html lang="en">
   <head>
     <style>
+      .gcontainer {
+      display: grid;
+      grid-template-columns: 40px 40px 40px;
+      background-color: orange;
+      padding: 20px;
+      }
+      .gitem {
+        background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+      }
+      .fcontainer {
+      display: flex;
+      background-color: Yellow;
+      }
+      .fcontainer > div {
+      font-size: 20px;
+      background-color: red;
+      padding: 10px;
+      margin: 10px;
+      }
       a.highlight:hover {
       color: #ff0000;
       font-size: 220px;
@@ -16,6 +39,27 @@
     <link rel="stylesheet" href="style1.css">
   </head>
   <body>
+    <div class="gcontainer">
+      <div class="gitem">1</div>
+      <div class="gitem">2</div>
+      <div class="gitem">3</div>  
+      <div class="gitem">4</div>
+      <div class="gitem">5</div>
+      <div class="gitem">6</div>  
+      <div class="gitem">7</div>
+      <div class="gitem">8</div>
+      <div class="gitem">9</div>
+      <div class="gitem">10</div>
+      <div class="gitem">11</div>  
+      <div class="gitem">12</div>
+      <div class="gitem">13</div>
+      <div class="gitem">14</div>
+    </div>
+    <div class="fcontainer">
+      <div>I</div>
+      <div>Me</div>
+      <div>Myself</div>  
+    </div>
     <div class = "a">
         <p>
             I am <em>hungry</em>
