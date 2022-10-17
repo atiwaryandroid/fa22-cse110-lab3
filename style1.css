@@ -1,5 +1,5 @@
 body {
-  background-color: black;  /*sets background color to blue*/
+  background-color: purple;  /*sets background color to blue*/
 }
 @media only screen and (max-width: 900px) {
       body {
